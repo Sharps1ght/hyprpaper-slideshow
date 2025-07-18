@@ -22,7 +22,7 @@ while true; do
 		# Result
 		echo "$display is set to $(basename $wallpaper)"
 		# Timer
-		sleep 3
+		sleep 30
 	done
 	# Dunno why but unload all of the wallpapers
 	# (it won't remove any currently active wallpapers from the monitors)
